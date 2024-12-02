@@ -25,3 +25,6 @@ Program ini adalah program sederhana untuk mengelola daftar nilai mahasiswa deng
    Menu utama memberikan pilihan kepada pengguna untuk menambah data, menampilkan data, menghapus data, mengubah data, atau keluar dari program. Program terus berjalan hingga pengguna memilih opsi keluar.
 7. logika utama
    Program menggunakan loop while untuk terus menjalankan menu hingga pengguna memilih untuk keluar. Setiap pilihan menu diproses dengan memanggil fungsi yang sesuai.
+## Flowchart
+![image](https://github.com/user-attachments/assets/77ab6f83-5fc1-44e6-859c-a5c6b7c78456)
+
